@@ -5,7 +5,9 @@ const Title = () => {
     <div className="title">
       <h1>Online_Gallery</h1>
       <h2>Our Pictures</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <p>
+        This is a simple online Gallery where we keep memories of our Friendship
+      </p>
     </div>
   );
 };
